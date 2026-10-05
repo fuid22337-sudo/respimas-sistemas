@@ -136,7 +136,7 @@ Durante la sesión, el cliente solicitó ajustes menores que no afectan los requ
 ---
 
 
-**Ultima actualización:** Junio de 2026  
+**Ultima actualización:** Octubre de 2026  
 **Versión del proyecto:** 1.0
 ```
 
