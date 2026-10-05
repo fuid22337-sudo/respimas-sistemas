@@ -122,13 +122,16 @@ Durante la sesión, el cliente solicitó ajustes menores que no afectan los requ
 
 ## Equipo desarrollador
 
-- **Ian Paulo Acevedo Aldana** – Facilitador y observador  
-- **Juan Emiliano Muñoz Ibarra** – Tomador de notas  
+## Contribuciones
 
+- **Ian Paulo Acevedo Aldana** - Desarrollo backend, despliegue en Azure
+- **Juan Emiliano Muñoz Ibarra** - Desarrollo frontend, base de datos
+
+- 
 **Institución:** Universidad Autónoma de Aguascalientes (UAA)  
 **Departamento:** Sistemas de Información  
-**Materia:** Ingeniería de Requerimientos  
-**Semestre:** 2025-B
+**Materia:** Diseño de Software  
+**Semestre:** 2026-B
 
 ---
 
